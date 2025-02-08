@@ -156,10 +156,10 @@
                 Why won't students come to labs? I see them all now stressing. 
                 If you only learned this basic programming, You would surely now be zessing.
               </p>
-    
+    <!-- This is how html comments are done btw -->
   </section>
   <section id="section2">
-       <h2>My Div</h2>
+       <h1>Section 2</h1>
   </section>
   <script src="script.js"></script>
 </body>
